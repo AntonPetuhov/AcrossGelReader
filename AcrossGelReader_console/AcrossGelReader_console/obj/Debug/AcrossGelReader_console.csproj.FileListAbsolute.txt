@@ -1,0 +1,15 @@
+C:\Users\anton.petuhov\source\repos\AcrossGelReader_console\AcrossGelReader_console\bin\Debug\AcrossGelReader_console.exe.config
+C:\Users\anton.petuhov\source\repos\AcrossGelReader_console\AcrossGelReader_console\bin\Debug\AcrossGelReader_console.exe
+C:\Users\anton.petuhov\source\repos\AcrossGelReader_console\AcrossGelReader_console\bin\Debug\AcrossGelReader_console.pdb
+C:\Users\anton.petuhov\source\repos\AcrossGelReader_console\AcrossGelReader_console\obj\Debug\AcrossGelReader_console.exe
+C:\Users\anton.petuhov\source\repos\AcrossGelReader_console\AcrossGelReader_console\obj\Debug\AcrossGelReader_console.pdb
+C:\Users\anton.petuhov\source\repos\AcrossGelReader_console\AcrossGelReader_console\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\anton.petuhov\source\repos\AcrossGelReader_console\AcrossGelReader_console\bin\Debug\System.Security.AccessControl.dll
+C:\Users\anton.petuhov\source\repos\AcrossGelReader_console\AcrossGelReader_console\bin\Debug\System.Security.Permissions.dll
+C:\Users\anton.petuhov\source\repos\AcrossGelReader_console\AcrossGelReader_console\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\anton.petuhov\source\repos\AcrossGelReader_console\AcrossGelReader_console\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\anton.petuhov\source\repos\AcrossGelReader_console\AcrossGelReader_console\bin\Debug\System.Security.AccessControl.xml
+C:\Users\anton.petuhov\source\repos\AcrossGelReader_console\AcrossGelReader_console\bin\Debug\System.Security.Permissions.xml
+C:\Users\anton.petuhov\source\repos\AcrossGelReader_console\AcrossGelReader_console\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\anton.petuhov\source\repos\AcrossGelReader_console\AcrossGelReader_console\obj\Debug\AcrossGelReader_console.csproj.CopyComplete
+C:\Users\anton.petuhov\source\repos\AcrossGelReader_console\AcrossGelReader_console\obj\Debug\AcrossGelReader_console.csprojAssemblyReference.cache
