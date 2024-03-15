@@ -1,0 +1,15 @@
+C:\Users\anton.petuhov\source\repos\AcrossGelReaderService\AcrossGelReaderService\bin\Debug\AcrossGelReaderService.exe.config
+C:\Users\anton.petuhov\source\repos\AcrossGelReaderService\AcrossGelReaderService\bin\Debug\AcrossGelReaderService.exe
+C:\Users\anton.petuhov\source\repos\AcrossGelReaderService\AcrossGelReaderService\bin\Debug\AcrossGelReaderService.pdb
+C:\Users\anton.petuhov\source\repos\AcrossGelReaderService\AcrossGelReaderService\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\anton.petuhov\source\repos\AcrossGelReaderService\AcrossGelReaderService\bin\Debug\System.Security.AccessControl.dll
+C:\Users\anton.petuhov\source\repos\AcrossGelReaderService\AcrossGelReaderService\bin\Debug\System.Security.Permissions.dll
+C:\Users\anton.petuhov\source\repos\AcrossGelReaderService\AcrossGelReaderService\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\anton.petuhov\source\repos\AcrossGelReaderService\AcrossGelReaderService\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\anton.petuhov\source\repos\AcrossGelReaderService\AcrossGelReaderService\bin\Debug\System.Security.AccessControl.xml
+C:\Users\anton.petuhov\source\repos\AcrossGelReaderService\AcrossGelReaderService\bin\Debug\System.Security.Permissions.xml
+C:\Users\anton.petuhov\source\repos\AcrossGelReaderService\AcrossGelReaderService\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\anton.petuhov\source\repos\AcrossGelReaderService\AcrossGelReaderService\obj\Debug\AcrossGelReaderService.csprojAssemblyReference.cache
+C:\Users\anton.petuhov\source\repos\AcrossGelReaderService\AcrossGelReaderService\obj\Debug\AcrossGelReaderService.csproj.CopyComplete
+C:\Users\anton.petuhov\source\repos\AcrossGelReaderService\AcrossGelReaderService\obj\Debug\AcrossGelReaderService.exe
+C:\Users\anton.petuhov\source\repos\AcrossGelReaderService\AcrossGelReaderService\obj\Debug\AcrossGelReaderService.pdb
